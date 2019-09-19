@@ -8,5 +8,6 @@ namespace team11
 {
     class quinten
     {
+        Console.WriteLine("Dit is quintens classe");
     }
 }
